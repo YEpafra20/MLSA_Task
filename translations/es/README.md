@@ -97,15 +97,15 @@ Dentro de `App.jsx` verás una variable llamada `siteProps`. Este es un objeto J
 
 ```javascript
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
+  name: "Md Nadeem Sarwar",
+  title: "Microsoft Student Ambassador | Salesforce Developer | Freelancer & Content Creator",
+  email: "MdNadeem.Sarwar@studentambassadors.com",
+  gitHub: "MdnadeemSarwar",
+  instagram: "md_nadeem_sarwar_",
+  linkedIn: "md-nadeem-sarwar",
   medium: "",
   twitter: "microsoft",
-  youTube: "microsoft",
+  youTube: "@Careerhelpline",
 };
 ```
 
