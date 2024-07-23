@@ -25,20 +25,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "Microsoft Student Ambassador | Salesforce Developer | SDE | Full Stack Developer | Freelancer";
+  "I am Yeddula Epafra born in 15/03/2002. Home town at Nandyal Districit, Andhra Pradesh, India. My Education at Sreesaila high school, Nandyal-10th class(July 2018-April 2019), Intermediate(11 + 12) at Rao's Junior College IC campus, Nandyal from June 2019 - April 2021 and My Bachelor's in Electronics and communication from KVSRIT, Jawaharlal Nehru Technological University Anantapur (Nov 2021 - April 2025). Having skills on machine learning, HTML, Fast learner, Team learder, Data Engineer, Network security. I've done certifications on Cloud computing- NPTEL, Machine Learning, Robotics - Teachnook, Data Engineering- EduSkills. I'm did the projects on UlUX-Top 50 in Guvi Skill A Thon, Web Development-CodeClouse and machine learning- Teachnook. Also Ethical hacking and Cybersecurity leading enthusiast. Now leading MLSA society in my university. My aim to get full benefit from this program to get skills in the field of my interest and to help my peers get those skills.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "Full Stack Developer",
-  "Salesforce Developer",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
-];
+  "Top 50 in Guvi Skill A Thon",
+  "Frontend developer",
+  "UI&UX",
+  "Intern -Cloud computing/ML/NetworkSecurity", 
+  "Ethical hacking & Cybersecurity Enthusiast",
+  ];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -46,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I'm a self-taught programmer with a B.Tech in Computer Science & Engineering. My skills include UI/UX design, full-stack development, SEO, and open-source contributions. As a Microsoft Student Ambassador, I engage with the tech community. I also run a YouTube channel, Career Helpline, with 22.3K subscribers, offering tech career insights.";
+  "I'm a self-taught programmer with a B.Tech in Electronics & Communication Engineering. My skills include UI/UX design, Frontend developer. As a Microsoft Student Ambassador, I engage with the tech community. I also run a YouTube channel, Career Helpline, offering tech career insights.";
 
 const About = () => {
   return (

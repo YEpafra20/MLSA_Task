@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Face Recognition Attendance System",
+    title: "Music player",
     description:
-      "This system allows users to easily record attendance by capturing and analyzing facial features, eliminating the need for manual attendance tracking methods.",
-    url: "https://github.com/MdNadeemSarwar/Face-Recognition-Attendance-System",
+      "This page allow you music ground.",
+    url: "https://github.com/YEpafra20/Music-ground",
   },
   {
-    title: "AI Text summarizer",
+    title: "Image Gallery",
     description:
-      "This app leverages the power of Artificial Intelligence, Whether you have a lengthy article, research paper, or any other text document that you want to summarize quickly, our app can assist you.",
-    url: "https://github.com/MdNadeemSarwar/AI-Text-summarizer",
+      "This web allow you Image gallery.",
+    url: "https://github.com/YEpafra20/img-gallery",
   },
   {
-    title: "Genetic Algorithm",
+    title: "File sharing system",
     description:
-      "Created Genetic Algorithm reserach on the genetic result bases on the previous hiostory. Includes my experience and design abilities.",
-    url: "https://github.com/MdNadeemSarwar/Genetic-Algorithm",
+      "This site drops you on file sharing system.",
+    url: "https://github.com/YEpafra20/File-Sharing-System",
   },
   {
-    title: "Spotify Web Apps",
+    title: "Pet service",
     description:
-      "I creating a Spotify Web App in this Web App you can listing song or displays the artist's name with the songs they composed.",
-    url: "https://github.com/MdNadeemSarwar/Spotify",
+      "This site allow you to pet.",
+    url: "https://github.com/YEpafra20/petservice",
   },
 ];
 
